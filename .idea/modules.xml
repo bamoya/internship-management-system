@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ECM.iml" filepath="$PROJECT_DIR$/.idea/ECM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/internship_tracking/internship_tracking.iml" filepath="$PROJECT_DIR$/internship_tracking/internship_tracking.iml" />
+    </modules>
+  </component>
+</project>
